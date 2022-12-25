@@ -1,0 +1,210 @@
+.walletbtn{
+
+    border-color: greenyellow !important;
+    background-image: linear-gradient(to right, rgb(40, 74, 9) , #34d039);
+
+}
+
+
+body{
+    background-image: url('../public/assets/bg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.card-text{
+    color: #07de0f;
+   
+}
+.btn1{
+    background:linear-gradient(90deg,#01ff09, #002002 );
+    border-radius: 8px !important ;
+   border-color: white !important;
+}
+
+.Abtn{
+    background-color: #034a0870 !important;
+    border-color:#002002 !important;
+    text-decoration: solid !important;
+    padding-top:15px !important;
+    padding-bottom: 15px !important;
+    width: -10px !important;
+    
+    
+}
+.Abtn:focus{
+    background:linear-gradient(90deg, #002002,#35b93a );
+     border-radius: 8px !important ;
+     box-shadow: 40px solid #07de0f !important;
+     border-color: #2ff035 !important;
+   
+
+}
+#dash{
+    overflow: auto;
+    
+   
+}
+#swap{
+
+    border-radius: 13px !important ;
+    box-shadow: 5px solid #07de0f !important;
+}
+#dashbord{
+    // height: 100%;
+    width: 300px;
+    position: fixed;
+    background-color: #111;
+    overflow-x: hidden;
+    padding-top: 20px;
+    border-left: 2px solid #0B6A0E;
+    border-right: 2px solid #0B6A0E;
+
+}
+#children{
+   
+    width: 100%;
+  height: 100vh;
+  overflow: auto;
+  // transition: margin 969ms cubic-bezier(0.4, 0, 0.6, 1) 0ms;
+  padding-top: 123px;
+  padding-left: 300px;
+}
+#hash{
+    color: #01ff09;
+    margin-bottom: 150px;
+}
+.safu{
+    background-color: #34c439;
+    color: white;
+    // width:10% !important;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size:xx-large;
+    
+}
+.safuu:hover{
+    background-color: #34c439;
+    color: rgb(255, 255, 255) !important;
+    
+    text-decoration: none;
+    border-radius: 5px;
+    font-size:xx-large;
+
+}
+.card{
+   
+    border : 2px solid #0b6a0e !important;
+    
+}
+ .card1{
+    border : 2px solid #0b6a0e !important;
+ box-shadow: 5px 5px 5px 5px #85f18972 !important;
+
+ }
+ @media only screen and (min-width:1200px) {
+    .dashboard{
+    display: block !important;
+}
+  
+  }
+  .dashboard{
+    display: none;
+  }
+  #children{
+    width: 100vw;
+  }
+
+  .dash{
+    display: none;
+  }
+
+  @media only screen  and (max-width:1200px){
+    .dash{
+        display: block;
+    }
+
+  }
+    
+  
+  .offcanvas-body {
+  
+    background-color: black !important;
+  }
+  
+  .offcanvas-header{
+    background-color: black !important;
+    color: white !important;
+  }
+  .offcanvas-header .btn-close{
+    background-color: white !important;
+  }
+  ::-webkit-scrollbar{
+    width: 5px;
+  }
+  
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px rgb(5, 159, 20); 
+    border-radius: 5px;
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #34c439; 
+    border-radius: 5px;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #34c439; }
+
+    
+    .safuu{
+        background-color: #34c439 !important;
+        border-radius: 10px !important;
+        font-size: larger !important;
+        width: 170px;
+    }
+    .input{
+        background-color: transparent !important ;
+        border:  none !important;
+    }
+
+    .input:focus{
+        background-color: transparent !important ;
+        border:  none !important;
+    }
+    .hyper{
+        background-color: black;
+        border-radius:150px;
+        height: 150px;
+        text-align: center;
+         margin-top: 50px;
+    }
+
+    .hyper{
+        
+            border-radius: 9999px;
+            width: 90%;
+            margin: 20px auto;
+            position: relative;
+            padding-top: 35%;
+            -webkit-animation: counter 1s ease-in-out infinite;
+            animation: counter 1s ease-in-out infinite;
+            color: #44b748;
+            box-shadow: #44b748 !important;
+            
+            
+        
+    }
+
+    #saf{
+
+        border : 2px solid #064708 !important;
+    }
+    // .icon{
+    //     border : 1px solid #064708 !important;
+
+    // }
