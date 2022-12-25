@@ -1,0 +1,17 @@
+Today Task      Final Assignament
+Saffu Dash board using different Style and color scheme
+create react aap
+packj install
+routing in aap.jsx
+folder structure
+Link Folders on Click
+bootStrap
+sass
+Aos animation
+react icons
+images from safuu
+partation in base.jsx
+table in Docs
+create account on Bscsan 
+get faild api from bascan which is not working
+i used working api in table 
